@@ -9,4 +9,4 @@ Assignments for course "Programming for Economists"
 
 [Assignment 4 (Week 6)](https://github.com/TRuijgers/Assignments/blob/master/assignment4.ipynb)
 
-[Assignment 5 (Week 6)](https://github.com/TRuijgers/Assignments/blob/master/assignment5.ipynb)
+[Assignment 5 (Week 8)](https://github.com/TRuijgers/Assignments/blob/master/assignment5.ipynb)
