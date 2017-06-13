@@ -10,3 +10,7 @@ Assignments for course "Programming for Economists"
 [Assignment 4 (Week 6)](https://github.com/TRuijgers/Assignments/blob/master/assignment4.ipynb)
 
 [Assignment 5 (Week 8)](https://github.com/TRuijgers/Assignments/blob/master/assignment5.ipynb)
+
+[Final Python Assignment](https://github.com/TRuijgers/Assignments/blob/master/Final_Assignment_Python_1_students.ipynb)
+
+[Final R Assignment](https://github.com/TRuijgers/Assignments/blob/master/OECD_R_exam.ipynb)
